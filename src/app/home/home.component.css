@@ -44,11 +44,11 @@
     z-index: 10;
 }
 #title{
-    background-color: #000000;
+    /* background-color: #000000; */
     color: #ffffff;
     padding: 10% 5%;
     text-align: left;
-    /* background-image: linear-gradient(to right, black, white); */
+    background-image: linear-gradient(to right, orange, green);
 }
 .big-heading{
     padding-top: 12%;
@@ -56,12 +56,10 @@
 #features{
     padding: 10% 5%;
     text-align: center; 
+    background-color: rgb(233, 209, 74);
 
 }
 
-.device-image {
-
-}
 .google{
     width:140px;
     height: 65px;
