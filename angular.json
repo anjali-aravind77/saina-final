@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SainaMoviesWeb"
+    }
+  },
+  "defaultProject": "SainaMoviesWeb",
+  "cli": {
+    "analytics": false
+  }
 }
